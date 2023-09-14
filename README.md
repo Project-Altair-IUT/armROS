@@ -1,3 +1,3 @@
-"# actuator_joint_arm" 
-- This code is for the stm32 on the actuator joint controller circuit.
+"# arm, ros, arduino mega" 
+- This code is for the arduino mega on the arm controller circuit.
 - ROS enabled, connect to on-board computer via USB.
